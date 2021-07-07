@@ -1,4 +1,4 @@
-[@trodi/electron-splashscreen - v1.0.1](../README.md) › [DynamicSplashScreen](dynamicsplashscreen.md)
+[@trodi/electron-splashscreen - v1.0.3](../README.md) › [DynamicSplashScreen](dynamicsplashscreen.md)
 
 # Interface: DynamicSplashScreen
 

@@ -1,6 +1,6 @@
-[@trodi/electron-splashscreen - v1.0.1](README.md)
+[@trodi/electron-splashscreen - v1.0.3](README.md)
 
-# @trodi/electron-splashscreen - v1.0.1
+# @trodi/electron-splashscreen - v1.0.3
 
 ## Index
 
