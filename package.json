@@ -1,6 +1,6 @@
 {
   "name": "@trodi/electron-splashscreen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple splashscreen for electron applications",
   "main": "index.js",
   "types": "index.d.ts",
@@ -37,5 +37,8 @@
     "typedoc": "^0.15.6",
     "typedoc-plugin-markdown": "^2.2.16",
     "typescript": "^3.7.4"
+  },
+  "publishConfig": {
+    "registry": "http://10.9.8.246:8081/repository/ziath_int_npm/"
   }
 }

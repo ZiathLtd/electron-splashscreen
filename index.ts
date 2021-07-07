@@ -99,7 +99,7 @@ export const initSplashScreen = (config: Config): BrowserWindow => {
     splashScreen = new BrowserWindow(xConfig.splashScreenOpts);
     splashScreen.loadURL(`file://${xConfig.templateUrl}`);
     xConfig.closeWindow && splashScreen.on("close", () => {
-        done || window.close();
+        done || window == null || window.close();
     });
     // Splashscreen is fully loaded and ready to view.
     splashScreen.webContents.on("did-finish-load", () => {
